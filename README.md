@@ -1,0 +1,1 @@
+One stop solution to understand how to use design patterns.
